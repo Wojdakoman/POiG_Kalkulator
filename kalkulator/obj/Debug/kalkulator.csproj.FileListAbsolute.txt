@@ -1,0 +1,15 @@
+F:\c# projects\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+F:\c# projects\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+F:\c# projects\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+F:\c# projects\kalkulator\kalkulator\obj\Debug\kalkulator.csprojAssemblyReference.cache
+F:\c# projects\kalkulator\kalkulator\obj\Debug\MainWindow.g.cs
+F:\c# projects\kalkulator\kalkulator\obj\Debug\App.g.cs
+F:\c# projects\kalkulator\kalkulator\obj\Debug\kalkulator_MarkupCompile.cache
+F:\c# projects\kalkulator\kalkulator\obj\Debug\kalkulator_MarkupCompile.lref
+F:\c# projects\kalkulator\kalkulator\obj\Debug\MainWindow.baml
+F:\c# projects\kalkulator\kalkulator\obj\Debug\kalkulator.g.resources
+F:\c# projects\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+F:\c# projects\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
+F:\c# projects\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+F:\c# projects\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+F:\c# projects\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
